@@ -1,0 +1,15 @@
+/*
+Aside
+*/
+
+aside ul{
+    list-style: none;
+}
+
+aside #ContLateral p, a, li{
+    margin-bottom: 2px;
+}
+
+/*
+Aside
+*/

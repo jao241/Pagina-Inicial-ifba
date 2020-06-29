@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Corpo, seções e laterais*/
+body{
+    display: flex;
+    background-color: lightgreen;
+    background-image: url("../background-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 30%;
+    margin-top: 10px;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: justify;    
+  }
+  
+  section{
+    margin: 30px 0;
+      width: 70%;
+  }
+
+  aside{
+    margin-top: 30px;
+      width: 40%;
+      text-align: left;
+      margin-left: 100px;
+  }
+
+/*
+  Corpo, seções e laterais
+*/
+
+

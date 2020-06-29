@@ -1,0 +1,22 @@
+
+/*Links*/
+a{
+    text-decoration: none;
+    transition: color 5ms;
+}
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: limegreen;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color:black;
+}
+/*links*/
